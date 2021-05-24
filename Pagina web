@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pagina web trabajo de ing. de software</title>
+<image src="usil logo">
+<h2><font color="blue" face="verdana">Presentacion personal</font></h2>
+</head>
+
+<center><image src="foto pagina web"></center>
+<body bgcolor="white" text="black">
+<p>Acerca de mi:</p>
+<p><font face="arial">Hola a todos,
+Mi nombre es Franco Castillo Sanchez tengo 17 años y terminé mis estudios en el colegio Rosa de Santa María (SJM), estoy estudiando la carrera de Computer Science actualmente en la universidad San Ignacio de Loyola (USIL).</font></p>
+
+<p>Redes en las que me pueden encontrar:</p>
+
+<center><table border="4">
+<tr>
+<td>Instagram</td>
+<td>frank_j0804</td>
+<td><image src=instagram logo</td>
+</tr>
+<tr>
+<td>Playstation</td>
+<td>watchfranco0804</td>
+<td><image src=playstation logo</td>
+</tr>
+<tr>
+<td>Discord</td>
+<td>watchfranco#7198</td>
+<td><image src=discord logo</td>
+</tr>
+<tr>
+<td>Facebook</td>
+<td>Franco Jesus Castillo Sanchez</td>
+<td><image src=facebooklogo</td>
+</tr>
+
+
+<h1></h1>
+</body>
+
+
+</html>
